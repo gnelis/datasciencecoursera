@@ -22,3 +22,7 @@ column_mean <- function(y, removeNA =TRUE){
   }
   means
 }
+
+dummy_func<- function(x){
+  x
+}
